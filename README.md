@@ -1,4 +1,4 @@
-![Sneed the Penguin](sneed-the-penguin.png)
+<img src="sneed-the-penguin.png" width="25%">
 	Sneedux kernel release 1.x <http://sparksammy.com/>
 	NOTE: THIS HAS NOTHING TO DO WITH SNEED'S FEED AND SEED OR LINUX, WE ARE JUST FANS.
 
