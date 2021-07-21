@@ -2,7 +2,7 @@
 	Sneedux kernel release 1.x <http://sparksammy.com/>
 	NOTE: THIS HAS NOTHING TO DO WITH SNEED'S FEED AND SEED OR LINUX, WE ARE JUST FANS.
 
-These are the release notes for Sneedux version 1 (Based off of Linux 4.x, applying some patches from 5.x and beyond.)  Read them carefully,
+These are the release notes for Sneedux version 1 (Based off of Linux 4.4.276, applying some patches from 4.x/5.x and beyond to maintain compatibility.)  Read them carefully,
 as they tell you what this is all about, explain how to install the
 kernel, and what to do if something goes wrong. 
 
