@@ -1,5 +1,5 @@
-<img src="sneed-the-penguin.png" width="25%"><img src="sneedux-logo.png" width="25%">
-        Sneedux kernel release 1.x <http://sparksammy.com/>
+<img src="sneed-the-penguin.png" width="25%"><img src="sneedux-logo.png" width="25%"><br>
+        Sneedux kernel release 1.x < http://sparksammy.com/ > <br>
 	NOTE: THIS HAS NOTHING TO DO WITH SNEED'S FEED AND SEED OR LINUX, WE ARE JUST FANS.
 
 These are the release notes for Sneedux version 1 (Based off of Linux 4.4.276, applying some patches from 4.x/5.x and beyond to maintain compatibility.) Read them carefully,
