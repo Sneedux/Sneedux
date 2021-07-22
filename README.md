@@ -8,9 +8,9 @@ kernel, and what to do if something goes wrong.
 
 WHAT IS Sneedux?
 
-  Sneedux is a fork and spiritual successor of the kernel Linux, which was written by
+  Sneedux is a fork of the kernel Linux, which was written by
   Linus Torvalds with assistance from a loosely-knit team of hackers across
-  the Net. It aims towards POSIX and Single UNIX Specification compliance.
+  the Net. It aims to be a more secure and freedom-respecting fork of Linux: downloading patches manually and checking them manually for spyware and other nasties. Linux aims towards POSIX and Single UNIX Specification compliance.
 
   It has all the features you would expect in a modern fully-fledged Unix,
   including true multitasking, virtual memory, shared libraries, demand
