@@ -1,5 +1,4 @@
 <img src="sneed-the-penguin.png" width="25%"><img src="sneedux-logo.png" width="25%">
-
         Sneedux kernel release 1.x <http://sparksammy.com/>
 	NOTE: THIS HAS NOTHING TO DO WITH SNEED'S FEED AND SEED OR LINUX, WE ARE JUST FANS.
 
@@ -263,7 +262,7 @@ COMPILING the kernel:
    To do the actual install, you have to be root, but none of the normal
    build should require that. Don't take the name of root in vain.
 
- - If you configured any of the parts of the kernel as `modules', you
+ - If you configured any of the parts of the kernel as 'modules', you
    will also have to do "make modules_install".
 
  - Verbose kernel compile/build output:
