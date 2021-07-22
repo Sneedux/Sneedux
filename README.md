@@ -1,4 +1,4 @@
-<img src="sneed-the-penguin.png" width="25%"><img src="sneedux-logo.png" width="25%"><br>
+<img src="sneed-the-penguin.png" width="15%"><img src="sneedux-logo.png" width="42%"><br>
         Sneedux kernel release 1.x < http://sparksammy.com/ > <br>
 	NOTE: THIS HAS NOTHING TO DO WITH SNEED'S FEED AND SEED OR LINUX, WE ARE JUST FANS.
 
